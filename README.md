@@ -25,4 +25,4 @@ Claude Code is part of my daily workflow — from writing code to building inter
 
 ---
 
-📬 [Blog](https://www.art1st.me/) · [LinkedIn](www.linkedin.com/in/yoonhwan-cho-97493b141)
+📬 [Blog](https://www.art1st.me/) · [LinkedIn](https://www.linkedin.com/in/yoonhwan-cho-97493b141)
