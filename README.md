@@ -1,14 +1,28 @@
-**Hello!**
+### Hi there 👋
 
-I am a Web Front-end Engineer who loves Technology, Web, Minimal UI/UX
+Senior Front-End Engineer
 
-- I worked on total 8 years Web Front-end domain. including 4 years of Markup Developer
-- I love React, TypeScript and latest Web API
+10+ years building web products at scale. Currently leading a 10+ person Frontend Chapter
 
-**Skills with Front-end**
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+#### 🛠️ What I'm working on
 
-**Skills with Back-end & DevOps**
+- **Frontend Platform** — Build systems, deployment pipelines, and shared tooling for product teams
+- **Developer Experience** — Internal tools and automation that make engineers move faster
+- **Chapter Leadership** — 1:1s, retrospectives, hiring, and driving AI Transformation initiatives across the chapter
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+#### 🧰 Tech I work with
+
+- **Frontend** &nbsp; TypeScript · React · Next.js · Web Accessibility
+- **Backend & Infra** &nbsp; Node.js · Docker · AWS · Cloudflare · Vercel
+- **Automation** &nbsp; n8n · GitHub Actions · Shell · AppleScript
+- **Collaboration** &nbsp; Jira · Confluence · Slack · Figma
+
+#### 🤖 On AI
+
+Claude Code is part of my daily workflow — from writing code to building internal tools and integrations for the team.
+
+---
+
+📬 [Blog](https://www.art1st.me/) · [LinkedIn](www.linkedin.com/in/yoonhwan-cho-97493b141)
